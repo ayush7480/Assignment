@@ -4,7 +4,6 @@
 Feature Development Breakdown:
 
 Custom Link Generation:
-
 Estimated Hours: 16 hours
                                                                                                                     Tech Stack:
 Frontend: React.js
@@ -23,7 +22,6 @@ Payment Gateway: PayPal API, Chargebee or UPI Intefration
 CRM Development:
 Estimated Hours: 40 hours
                                                                                                                      Tech Stack:
-
 Frontend: React.js
 Backend: Node.js, Express
 Database: MongoDB
